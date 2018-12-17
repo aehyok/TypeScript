@@ -5,5 +5,5 @@ var stringName = "bob";
 stringName = "Smith";
 var testName = "Gene";
 var age = 37;
-var sentence = "Hello,\tmy\tname\tis\t" + testName + ".I'll\tbe\t" + (age + 1) + "\tyears\told\tnext\tmonth.";
+var sentence = "Hello,\tmy name is\t" + testName + ".I'll be\t" + (age + 1) + "years old next month.";
 console.info(sentence);
